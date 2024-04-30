@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil :🔮
 
-<!--
-**Daniel13x/Daniel13x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniel Lopes Corassa 
+  
+- Estou estudando [Alura](https:www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavasScript
+- Utilizo esse espaço para minha organização e compartilhamento dos seus projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### Você pode entra em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  danielcorassa1234@gmail.com
+
+![](https://media1.tenor.com/m/ZMe398J4PoEAAAAC/ok-okay.gif)
+  
